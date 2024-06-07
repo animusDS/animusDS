@@ -1,2 +1,2 @@
 ```math
-\ce{$\unicode[margin: 0; overflow: hidden; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/DIA4A/DIA4A/main/inspiration.gif') no-repeat center center; background-size: cover; ]{x0000}$}
+\ce{$\unicode[margin: 0; overflow: hidden; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 0.5; background: url('https://media.discordapp.net/attachments/1081652567056072835/1136956380906008636/ezgif.com-apng-to-gif3.gif?ex=6664cf64&is=66637de4&hm=40f7c3bfa281c32b98d755f5dfe9e0311337107de32d7c589bf7cfa5cdf83231&') no-repeat center center; background-size: cover; ]{x0000}$}
